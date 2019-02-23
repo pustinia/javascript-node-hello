@@ -1,4 +1,9 @@
 # Hello! ***nodejs***
-> this is my first nodejs tutrials.
-1. node-hello
+> first nodejs samples
+1. object
+2. funciton
+3. types
+4. file(fs)
+5. httpServer
+6. os
 
